@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Photo</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="register_title">Register</string>
+    <string name="your_e_mail">Your e-mail...</string>
+    <string name="password">Password</string>
+    <string name="next">NEXT</string>
+</resources>
